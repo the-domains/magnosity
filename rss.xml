@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Magnosity]]></title>
+        <description><![CDATA[Magnosity]]></description>
+        <link>http://magnosity.com/</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 19 Aug 2018 23:51:08 GMT</lastBuildDate>
+        <atom:link href="http://magnosity.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Triplex]]></title>
+            <description><![CDATA[<h1>Triplex</h1>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/bea50b66-8bf4-489a-a72a-0af12b6ca11a.png" title="Triplex screenshot for Versa">,<p>Triplex is a dynamic geometric clockface inspired by the art of Andy Gilmore.</p>,<a href="https://gam.fitbit.com/gallery/clock/e59a4433-d4f5-415c-84c1-115a778a4be7" data-role="cta">Try it now for your Versa or Ionic from the Fitbit Gallery.</a>,<ul><li>Large digital display of hours and minutes with configurable colors.</li><li>Tap any of the four stat zones to display steps, distance, calories, floors climbed, active minutes, heart rate, date, seconds, or battery level.</li><li>Optionally lock your stats on the settings page to prevent accidental taps from changing your preferred stats.</li><li>Configure the horizonal and vertical symmetry of your Triplex backdrop.</li><li>Chinese, English, French, German, Italian, Japanese, Korean, and Spanish dates and times -- all supported</li><li>Date and time adjusts to the language/region and 12/24 clock display preferences set in your Fitbit profile at https://www.fitbit.com/user/profile/edit</li><li>Free 24-hour trial, $1.49 (plus taxes/fees) to purchase with K-Pay</li></ul>]]></description>
+            <link>http://magnosity.com/triplex/index.html</link>
+            <guid isPermaLink="false">5e0f40ca-b281-48a0-809b-1118815f81cf</guid>
+            <pubDate>Sun, 19 Aug 2018 23:51:03 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
