@@ -1,0 +1,36 @@
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+name: Magnosity
+layout_spectrum: 0.3055364459287375
+typography_spectrum: 0.7937870407477021
+color:
+  brandStrength: 0.8917617311235517
+  lightness: 0.5457146700937301
+  saturation: 0.2176595728378743
+  rhythmicContrast: 0.40428455360233784
+  brandColors:
+    - '#E6E2AF'
+    - '#A7A37E'
+    - '#EFECCA'
+    - '#046380'
+    - '#002F2F'
+content: []
+github: true
+content_rating:
+  adult: false
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/bc88a958-c22e-4a2e-a834-b7c516a4d3d9.png
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/4f4e7af9-c7ab-43a5-8eae-49c00f18bf5f.png
+url: 'https://magnosity.com'
+author:
+  name: Magnosity
+  email: support@magnosity.com
+  url: 'https://magnosity.com'
+opengraph:
+  appId: ''
