@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: This tennis-themed clockface dreams of being worn to a Grand Slam tournament!
-dateModified: '2018-08-20T00:28:33.144Z'
-datePublished: '2018-08-20T00:29:03.168Z'
+dateModified: '2018-08-20T00:31:15.971Z'
+datePublished: '2018-08-20T00:31:16.682Z'
 title: Topspin Ace
 author: []
 publisher: {}
@@ -10,7 +10,7 @@ via: {}
 hasPage: true
 sourcePath: _posts/2018-08-19-topspin-ace.md
 starred: false
-datePublishedOriginal: '2018-08-20T00:29:03.168Z'
+datePublishedOriginal: '2018-08-19T23:51:09.691Z'
 url: topspin-ace/index.html
 _type: Article
 
@@ -19,7 +19,7 @@ _type: Article
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f4883295-2a89-4947-96c6-22053b611d0a.png)
 
 This tennis-themed clockface dreams of being worn to a Grand Slam tournament!
-[Try it now on your Fitbit Versa or Ionic.][0]
+[Try it now on Fitbit Versa or Ionic.][0]
 
 * Shows hours, minutes, weekday, month, day, battery level and current heart rate on the main clock view.
 
