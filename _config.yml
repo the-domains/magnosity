@@ -37,7 +37,6 @@ content:
         domain: the-grid-user-content.s3-us-west-2.amazonaws.com
       keywords: []
       description: ''
-      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
       app_links: []
       '@context': 'http://schema.org'
       '@type': MediaObject
@@ -52,7 +51,7 @@ logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/bc88a958-c22e-4a2e-a834-b7c516a4d3d9.png
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/4f4e7af9-c7ab-43a5-8eae-49c00f18bf5f.png
-url: 'https://magnosity.com'
+url: 'https://magnosity.com/'
 author:
   name: Magnosity
   email: support@magnosity.com
